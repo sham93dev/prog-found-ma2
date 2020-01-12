@@ -8,7 +8,7 @@ console.log(petArray[1]);
 
 // Q3 Add the item "sheep" to petArray using the push method.
 
-petArray.push("purple");
+petArray.push("sheep");
 
 // Q4 Console log how many items there are now in petArray using the length method.
 
